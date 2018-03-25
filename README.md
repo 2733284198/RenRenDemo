@@ -3,5 +3,5 @@
 项目技术：
 mysql，tomcat8.5，spring，springmvc，mybatis
 
-开发工具：eclipse,jdkl.8
+开发工具：eclipse,jdk1.8
 
