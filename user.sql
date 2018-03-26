@@ -36,4 +36,3 @@ INSERT INTO `user` VALUES ('4', 'lala', '11');
 INSERT INTO `user` VALUES ('5', 'aa', '11');
 INSERT INTO `user` VALUES ('6', 'asas', '11');
 INSERT INTO `user` VALUES ('11', 'ha', '11');
-INSERT INTO `user` VALUES ('12', 'ha', '11');
